@@ -1,0 +1,41 @@
+/* header */
+.header-container {
+  margin-bottom: 30px;
+}
+
+.header-title {
+  text-align: center;
+  border-bottom: 5px solid #2D6C92;
+}
+
+/* main */
+.main-container {
+  border: 1px solid #cccccc;
+  width: 90%;
+  margin: auto;
+}
+
+.main-title-wrap {
+  margin: 2% 0;
+}
+
+.main-item-wrap {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.main-title-wrap {
+  text-align: center;
+}
+
+h3 {
+  margin: 0;
+}
+
+.main-item {
+  padding: 2% 0;
+}
+
+.main-item-contents {
+  margin-top: 1%;
+}
